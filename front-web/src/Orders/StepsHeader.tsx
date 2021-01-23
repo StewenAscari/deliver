@@ -8,7 +8,7 @@ function StepsHeader(){
                <ul className="steps-items">
                    <li>
                         <span className="steps-number">1</span>
-                        Localize os produtos e localização.
+                        Selecione os produtos e localização.
                    </li>
 
                    <li>
